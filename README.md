@@ -1,7 +1,7 @@
 ![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">I'm a full stack Web & App Developer🧑🏻‍💻</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/9DavVitIZ26jH0aK7s.webp">
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp">
 
 - 🔭 I’m currently working on [Image Classifier](https://github.com/SyedFahad7/Image-Classifier)
 
