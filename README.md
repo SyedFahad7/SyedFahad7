@@ -1,6 +1,6 @@
 ![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
 <h1 align="center">Hi 👋, I'm Fahad</h1>
-<h3 align="center">I'm a full stack Web & App Developer🧑🏻‍💻</h3>
+<h3 align="center">I'm a Full stack Web & App Developer🧑🏻‍💻 | Undergrad Data Science Student </h3>
 <img align="right" alt="coding" width="300" src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp">
 
 - 🔭 I’m currently working on [Image Classifier](https://github.com/SyedFahad7/Image-Classifier)
