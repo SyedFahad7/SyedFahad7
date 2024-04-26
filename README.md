@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data Science and ML**
 
-- 📝 I regularly write articles on [https://medium.com/@sfahad2904](https://medium.com/@sfahad2904)
-
 - 💬 Ask me about **Web and App Devlopment**
 
 - 📫 How to reach me **sfahad2904@gmail.com**
