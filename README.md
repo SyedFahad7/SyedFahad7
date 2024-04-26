@@ -1,4 +1,3 @@
-![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">I'm a Full stack Web & App Developer🧑🏻‍💻 | Undergrad Data Science Student </h3>
 
