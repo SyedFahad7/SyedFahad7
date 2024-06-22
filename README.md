@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sfahad2904@gmail.com**
 
-- ⚡ Fun fact:**Engineer by Day, Coder by Night 🧑🏻‍💻**
+- ⚡ Fun fact:  **Engineer by Day, Coder by Night 🧑🏻‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
