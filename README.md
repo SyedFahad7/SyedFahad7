@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">I'm a Full stack Web & App Developer🧑🏻‍💻 | Undergrad Data Science Student </h3>
 
-- 🔭 I’m currently working on [hackprix](https://github.com/SyedFahad7/hackprix)
+- 🔭 I’m currently working on [React Template](https://github.com/SyedFahad7/Hoster-Template)
 
 - 🌱 I’m currently learning **Data Science and ML**
 
