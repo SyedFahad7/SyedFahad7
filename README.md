@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">I'm a Full stack Web & App Developer🧑🏻‍💻 | Undergrad Data Science Student </h3>
+<h4 align="center">Transitioning from Web2 to Web3 ⛓️ | writing Smart Contracts 📝 </h4>
 
-- 🔭 I’m currently working on [React Template](https://github.com/SyedFahad7/Hoster-Template)
+- 🔭 I’m currently working on [Java Servlet](https://github.com/SyedFahad7/Java-Servlet)
 
-- 🌱 I’m currently learning **Data Science and ML**
+- 🌱 I’m currently learning **Blochain Development**
 
-- 💬 Ask me about **Web and App Devlopment**
+- 💬 Ask me about **Web-App Devlopment, Blochain & AI**
 
 - 📫 How to reach me **sfahad2904@gmail.com**
 
