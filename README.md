@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full stack Web & App Developer🧑🏻‍💻 | Undergrad Data Science Student </h3>
 <h4 align="center">Transitioning from Web2 to Web3 ⛓️ | writing Smart Contracts 📝 </h4>
 
-- 🔭 I’m currently working on [Terminal Clock Using Rust](https://github.com/SyedFahad7/Terminal-Clock)
+- 🔭 I’m currently working on [Laundry Application](https://github.com/xunoia)
 
 - 🌱 I’m currently learning **Blochain Development**
 
