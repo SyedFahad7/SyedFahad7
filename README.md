@@ -20,6 +20,6 @@
 </p>
 <p align="center">
   <a href="https://buymeacoffee.com/fahad.developer" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-ar21~bgwhite.svg" alt="Buy Me A Coffee" height="50">
+    <img src="https://imgs.search.brave.com/2FC1KmnWfKHO0CKs8Fwq_G-UVPdSzupcsGdaL4TMKoc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS83/YjhmNzM0M2JmYzZl/M2M2NWM3OTAxODQ2/NjM3YjYwM2ZkODEy/ZjFhNWY3NjhkOGIw/NTcyNTU4YmRlODU5/ZWI5LzY4NzQ3NDcw/NzMzYTJmMmY2MzY0/NmUyZTYyNzU3OTZk/NjU2MTYzNmY2NjY2/NjU2NTJlNjM2ZjZk/MmY2Mjc1NzQ3NDZm/NmU3MzJmNzYzMjJm/NjQ2NTY2NjE3NTZj/NzQyZDc5NjU2YzZj/NmY3NzJlNzA2ZTY3" alt="Buy Me A Coffee" height="50">
   </a>
 </p>
