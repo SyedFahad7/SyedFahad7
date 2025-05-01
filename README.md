@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web-App Development, Blockchain & AI**
 
-- 📫 How to reach me **sfahad2904@gmail.com**
+- 📫 How to reach me **syedfahad.dev@gmail.com**
 
 - ⚡ Fun fact:  **Engineer by Day, Coder by Night 🧑🏻‍💻**
 
