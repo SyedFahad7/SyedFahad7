@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full stack Web & App Developer🧑🏻‍💻 | Undergrad Data Science Student </h3>
 <h4 align="center">Transitioning from Web2 to Web3 ⛓️ | writing Smart Contracts 📝 </h4>
 
-- 🔭 I’m currently working on [thehotelbeds](https://thehotelbeds.xunoia.com)
+- 🔭 I’m currently working on [thehotelbeds](https://cyclesync.in)
 
 - 🌱 I’m currently learning **Gen AI**
 
