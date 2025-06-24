@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working at [Wavexcel](https://www.wavexcel.in/)
 
+- 🥑 Building [HackPrix](https://hackprix.in)
+
 - 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **Web-App Development, Blockchain & AI**
