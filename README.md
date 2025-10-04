@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full stack Web & App Developer🧑🏻‍💻 | Undergrad Data Science Student </h3>
 <h4 align="center">Transitioning from Web2 to Web3 ⛓️ | writing Smart Contracts 📝 </h4>
 
-- 🔭 I’m currently working at [Wavexcel](https://www.wavexcel.in/)
+- 🔭 I’m currently working at [Xunoia](https://www.xunoia.com)
 
 - 🥑 Building [HackPrix](https://hackprix.in)
 
